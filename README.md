@@ -20,6 +20,8 @@
 - المكتبات المذكورة في ملف requirements.txt
 
 ## التثبيت
+git clone https://github.com/SaudiLinux/SubSeven.git
+
 
 ```bash
 # تثبيت المكتبات المطلوبة
